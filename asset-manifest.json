@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Review-Cards/static/css/main.09f05786.css",
+    "main.js": "/Review-Cards/static/js/main.c86d52d1.js",
+    "static/media/abhishek.jpg": "/Review-Cards/static/media/abhishek.5f7e9f5c0b78c175b7d8.jpg",
+    "static/media/komal.png": "/Review-Cards/static/media/komal.483797789eb99317ca03.png",
+    "static/media/kunal.png": "/Review-Cards/static/media/kunal.383f8e510863953c00f0.png",
+    "static/media/parul.png": "/Review-Cards/static/media/parul.fd759d1f37be4c1426a8.png",
+    "static/media/krrish.png": "/Review-Cards/static/media/krrish.48cf5c72111393c3dad6.png",
+    "static/media/kshama.png": "/Review-Cards/static/media/kshama.002bac120479ef440b24.png",
+    "static/media/mitali.jpg": "/Review-Cards/static/media/mitali.f5069f208dd28b1a1e9c.jpg",
+    "static/media/karan.jpg": "/Review-Cards/static/media/karan.8b93a8cf97f0b1078436.jpg",
+    "static/media/pallavi.png": "/Review-Cards/static/media/pallavi.fac60b1f3d814688e5ad.png",
+    "index.html": "/Review-Cards/index.html",
+    "main.09f05786.css.map": "/Review-Cards/static/css/main.09f05786.css.map",
+    "main.c86d52d1.js.map": "/Review-Cards/static/js/main.c86d52d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f05786.css",
+    "static/js/main.c86d52d1.js"
+  ]
+}
